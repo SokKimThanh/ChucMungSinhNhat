@@ -1,0 +1,97 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Dec 22, 2016, 11:26:01 PM
+    Author     : Administrator
+*/
+
+body {
+  background-image: url("../img/hpbd.jpg");
+  background-size: 100%;
+  background-repeat: repeat-y;
+  font-family: "Fredoka One", cursive;
+  color: white;
+}
+.img_banner_hpbd { 
+  background-image: url("../img/3d28ae425248a05544665dd53400f52e.jpg");
+  background-repeat: no-repeat;
+  background-position: left center;
+  background-size: auto;
+}
+h1.heading {
+  font-family: "Pacifico", cursive;
+}
+.jumbotron {
+  opacity: 0.4;
+  filter: alpha(opacity=50); /* For IE8 and earlier */
+}
+h4 {
+  font-family: "Nunito Sans", sans-serif;
+}
+.bg-snow-tranparent-normal {
+  opacity: 1;
+  filter: alpha(opacity=50); /* For IE8 and earlier */
+}
+.bg-snow-tranparent-hidden {
+  opacity: 0.8;
+  filter: alpha(opacity=50); /* For IE8 and earlier */
+}
+.footer {
+  height: 250px;
+  font-size: 20px;
+  background-color: darkblue;
+  color: skyblue;
+  padding-top: 100px;
+  opacity: 0.5;
+  filter: alpha(opacity=50); /* For IE8 and earlier */
+}
+.containeri {
+  position: relative;
+  text-align: center;
+}
+.top-right {
+  position: absolute;
+  top: 25px;
+  right: 25px;
+  color: #728e98;
+  font-size: 90%;
+}
+
+.top-left {
+  position: absolute;
+  top: 132px;
+  right: 29px;
+  color: #6c7c6b;
+  font-size: 80%;
+}
+.center {
+  position: absolute;
+  bottom: 115px;
+  left: 250px;
+  color: #6c7c6b;
+  font-size: 80%;
+}
+.and {
+  position: absolute;
+  bottom: 160px;
+  left: 240px;
+  color: #6c7c6b;
+  font-size: 80%;
+}
+
+.bottom-right {
+  position: absolute;
+  bottom: 253px;
+  right: 20px;
+  color: #6c7c6b;
+  font-size: 80%;
+}
+.bottom-left {
+  position: absolute;
+  bottom: 5px;
+  left: 270px;
+  color: #b78690;
+}
